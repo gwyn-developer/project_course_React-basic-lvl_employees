@@ -1,4 +1,4 @@
-# project_course_JS
+# project_course_React-basic-lvl_list_of_employees
 
 Simple app - list of employees, which is the result of a course on basic level of React.
 
