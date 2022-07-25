@@ -9,5 +9,5 @@ Simple app - list of employees, which is the result of a course on basic level o
 git clone https://github.com/gwyn-developer/project_course_React-basic-lvl_list-of-employees.git
 cd project_course_React-basic-lvl_list-of-employees
 npm install
-npm run build
+npm start
 ```
