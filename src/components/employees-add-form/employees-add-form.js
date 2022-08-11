@@ -34,7 +34,7 @@ class EmployeesAddForm extends Component{
     }
 
 //     static onLog = () => {
-//          console.log('hello epta');
+//          console.log('hello');
 //     }
 
 //     static logged = 'on';
